@@ -6,15 +6,14 @@
 
  - :construction_worker: My name is Henrique Bastos Laet
 
- - :school: Currently studying 9th grade elementary school
+ - :Faculty: Currently studying the Systems Analysis and Development faculty 
 
- - :heart: I love to develop
+ - :heart: I love developing
 
 ---
 
  - :rocket: Study and dedication, this is the focus
 
- - :office: My LinkedIn profile [Linkedin](https://www.linkedin.com/in/henrique-bastos-laet-b904851b6/)
+ - :office: My profile on LinkedIn [Linkedin](https://www.linkedin.com/in/henrique-bastos-laet-b904851b6/)
 
- - :computer: Little apprentice | Development | Seeking to be Full Stack
-
+ - :computer: Java & Spring Framework | SQL | Full Stack
